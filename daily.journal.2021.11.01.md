@@ -2,7 +2,7 @@
 id: dKzBrtbrjpLPnTHjL9X6S
 title: '2021-11-01'
 desc: ''
-updated: 1635818579748
+updated: 1635819714291
 created: 1635804326683
 ---
 
@@ -13,6 +13,7 @@ created: 1635804326683
 - [x] Workout
 - [ ] Bayyinah
 - [x] Cloud store dendron
+- [ ] [[Read dendron articles|scratch.2021.11.01.212119]]
 
 ## Not Doing
 
