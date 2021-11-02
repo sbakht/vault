@@ -1,4 +1,10 @@
 {
+    "tag": {
+        "prefix": "#",
+        "scope": "markdown,yaml",
+        "body": "[[#${1:my-tag}|tag.${1}]]",
+        "description": "tag"
+    },
     "todo": {
         "prefix": "to",
         "scope": "markdown,yaml",

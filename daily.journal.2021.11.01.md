@@ -2,7 +2,7 @@
 id: dKzBrtbrjpLPnTHjL9X6S
 title: '2021-11-01'
 desc: ''
-updated: 1635821870981
+updated: 1635860216076
 created: 1635804326683
 ---
 
@@ -11,7 +11,7 @@ created: 1635804326683
 - [x] [Go through ameoba guide to note taking](https://wiki.dendron.so/notes/e780000d-c784-4945-8e42-35218a3ecf10)
 - [x] Stretch
 - [x] Workout
-- [ ] Bayyinah
+- [x] Bayyinah
 - [x] Cloud store dendron
 
 ## Tomorrow

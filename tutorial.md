@@ -2,7 +2,7 @@
 id: 01u0co3RYjOM1bjpc2qIU
 title: Tutorial
 desc: 'Tutorial Home Page'
-updated: 1635730344889
+updated: 1635860171218
 created: 1624333847315
 ---
 
@@ -20,8 +20,8 @@ The tutorial steps take about 10 minutes to complete. Let's get started!
 
 - [x] Install Dendron
 - [x] Create your first workspace
-- [ ] Complete the Tutorial (Ctrl+Click on the links to go to each tutorial note)
-  - [x] One: [[tutorial.1-navigation-basics]] - [x] Two: [[tutorial.2-taking-notes]] - [ ] Three: [[tutorial.3-linking-your-notes]] - [ ] Four: [[tutorial.4-rich-formatting]] - [ ] Five: [[tutorial.5-conclusion]]
+- [x] Complete the Tutorial (Ctrl+Click on the links to go to each tutorial note)
+  - [x] One: [[tutorial.1-navigation-basics]] - [x] Two: [[tutorial.2-taking-notes]] - [x] Three: [[tutorial.3-linking-your-notes]] - [x] Four: [[tutorial.4-rich-formatting]] - [x] Five: [[tutorial.5-conclusion]]
 
 #### Getting Help
 
