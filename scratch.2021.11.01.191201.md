@@ -2,7 +2,7 @@
 id: cpTeubzQ3DE2tHJMXAoYI
 title: '191201'
 desc: ''
-updated: 1635812084847
+updated: 1635816933699
 created: 1635811924741
 ---
 
@@ -15,4 +15,3 @@ https://www.loom.com/share/2fd3042119124df8bb4592d8ffe6d708
 
 Onboarding session
 https://www.youtube.com/watch?v=3io2fHRmZsE
-s

@@ -2,18 +2,21 @@
 id: dKzBrtbrjpLPnTHjL9X6S
 title: '2021-11-01'
 desc: ''
-updated: 1635812025668
+updated: 1635818579748
 created: 1635804326683
 ---
 
 ## TODO
 
 - [x] [Go through ameoba guide to note taking](https://wiki.dendron.so/notes/e780000d-c784-4945-8e42-35218a3ecf10)
-- [ ] Go through https://yare.io/
-- [ ] Stretch
-- [ ] Workout
+- [x] Stretch
+- [x] Workout
 - [ ] Bayyinah
-- [ ] Cloud store dendron
+- [x] Cloud store dendron
+
+## Not Doing
+
+- [ ] Go through https://yare.io/
 
 I just created a smoothie from the mango/peanch/pineapple/strawberry frozne fruits from costco. It doesn't taste AMAZINGLY fruity but it taste pretty good enough. I could probably add some lemon or something to make it great. Its a good healthy base to get fruits from.
 
