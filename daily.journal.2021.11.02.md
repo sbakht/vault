@@ -1,25 +1,25 @@
 ---
 id: 722ae5d9-8f5e-4c6c-8c1a-a2a0f7bbefbb
-title: '2021-11-02'
-desc: ''
-updated: 1635905205351
+title: "2021-11-02"
+desc: ""
+updated: 1635907360202
 created: 1635860244079
 ---
 
 ## TODO
 
-#### Personal
+### Personal
 
 - [x] [Dr k](https://www.twitch.tv/videos/1193129651)
 - [x] [[Read dendron articles|scratch.2021.11.01.212119]]
 - [x] Stretch - partially done
 - [x] Workout
-- [ ] Bayyinah
+- [x] Bayyinah
+- [x] Check healthy gamer exisitng posts on judgement
 - [ ] meditate
 - [ ] [[Create wiki on judgement samskra to post to r/healthygamer|scratch.2021.11.02.085848.create-wiki-on-judgement-samskra-to-post-to-rhealthygamer]]
-- [x] Check healthy gamer exisitng posts on judgement
 
-#### Work
+### Work
 
 - [x] Write up wiki on other discovery params (regionCode, SITE, application type)
 

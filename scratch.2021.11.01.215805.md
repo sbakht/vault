@@ -1,8 +1,8 @@
 ---
 id: qidQrgRTJAsAmay6RWRSZ
-title: 'Day 69 - Things you need to know about fils'
-desc: ''
-updated: 1635826520142
+title: "Day 69 - Things you need to know about fils"
+desc: ""
+updated: 1635907971564
 created: 1635821886349
 ---
 
@@ -40,4 +40,38 @@ Lists page references to all these topics in the timestamps
 
 ### Fi mahalli raf
 
-# Im at 20 minutes ------- REMOVE THIS
+Majhool refers to the passive:
+![](/assets/images/2021-11-02-21-12-05.png)
+
+### Fils of shock
+
+![](/assets/images/2021-11-02-21-24-10.png)
+
+نِعْمَ followed by a rafa
+
+ne'ma thawaab - "What an amazing reward!"
+
+![](/assets/images/2021-11-02-21-31-14.png)
+
+بِعْسَ followed by a rafa
+"What a terrible reward!"
+
+ماأفْعَل
+
+![](/assets/images/2021-11-02-21-29-33.png)
+
+the attached pronoun is actually the doer
+
+![](/assets/images/2021-11-02-21-34-16.png)
+![](/assets/images/2021-11-02-21-35-17.png)
+
+_I don't know the difference between E and F yet_
+
+## C and D will be explained soon
+
+![](/assets/images/2021-11-02-21-49-43.png)
+This means "mudhari emphasized with a light nun"
+
+![](/assets/images/2021-11-02-21-51-00.png)
+
+# 56 minutes up to
