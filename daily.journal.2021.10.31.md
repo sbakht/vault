@@ -2,14 +2,14 @@
 id: nKPHRJI18Bd0yry24X8T2
 title: '2021-10-31'
 desc: ''
-updated: 1635741905905
+updated: 1635899729891
 created: 1635731371993
 ---
 
 ## TODO
 
-- [ ] [Go through ameoba guide to note taking](https://wiki.dendron.so/notes/e780000d-c784-4945-8e42-35218a3ecf10)
-- [ ] Go through https://yare.io/
+- [x] [Go through ameoba guide to note taking](https://wiki.dendron.so/notes/e780000d-c784-4945-8e42-35218a3ecf10)
+- [n] Go through https://yare.io/
 
 So I asked myself about a scenario that I was suppose to think about how i would react, but I can't remember the question. This shows how fast things go away. I'm trying to as ak question and vary the situation a little bit each time to pull out what my values are and how I would answer differently each time.
 
