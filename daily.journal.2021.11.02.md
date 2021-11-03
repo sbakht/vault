@@ -2,7 +2,7 @@
 id: 722ae5d9-8f5e-4c6c-8c1a-a2a0f7bbefbb
 title: '2021-11-02'
 desc: ''
-updated: 1635860484733
+updated: 1635871798694
 created: 1635860244079
 ---
 
@@ -15,6 +15,9 @@ created: 1635860244079
 - [ ] Workout
 - [ ] Bayyinah
 - [ ] meditate
+- [ ] [[Create wiki on judgement samskra to post to r/healthygamer|scratch.2021.11.02.085848.create-wiki-on-judgement-samskra-to-post-to-rhealthygamer]]
+- [ ] Check healthy gamer exisitng posts on judgement
+
 
 #### Work
 - [ ] Write up wiki on other discovery params (regionCode, SITE, application type)

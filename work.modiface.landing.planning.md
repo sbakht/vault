@@ -2,7 +2,7 @@
 id: b3ad1436-3241-4841-adf7-74938abf9c4a
 title: Planning
 desc: ''
-updated: 1635860727276
+updated: 1635870793681
 created: 1635860034636
 ---
 
@@ -43,8 +43,8 @@ pathname=/shop/search/COLOR_NORMAL,PRODUCT_DEPARTMENT/Blue,Boots|Mules
 	| separates items within a group
 
 
-- [ ] keyword
-- [ ] region code
+- [x] keyword
+- [x] region code
 - [ ] device type
 - [ ] application
 - [ ] navigation type
@@ -52,7 +52,22 @@ pathname=/shop/search/COLOR_NORMAL,PRODUCT_DEPARTMENT/Blue,Boots|Mules
 
 #### keyword
 
+We don't need keyword for our scenario so i will skip it
+
 #### _regionCode
+
+This is how discovery gets it on the server side which then updates the meta response from. They build the xapi request using a different param though
+
+```javascript
+const reqUrl = `${xapi.getSearchPageUrlFromRequest(req)}${(userid !== undefined) ? `&userid=${userid}` : ''}&visitorId=${visitorId}`;
+```
+
+```javascript
+const RequestContext = require('@component/common/src/util/RequestContext');
+const regionCode = RequestContext.getRegionCodeFromRequest(req, true);
+```
+
+Discovery client side reads from pageApp
 
 #### _deviceType
 
