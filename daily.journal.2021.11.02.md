@@ -2,7 +2,7 @@
 id: 722ae5d9-8f5e-4c6c-8c1a-a2a0f7bbefbb
 title: "2021-11-02"
 desc: ""
-updated: 1635908038228
+updated: 1635960800588
 created: 1635860244079
 ---
 
@@ -16,7 +16,7 @@ created: 1635860244079
 - [x] Workout
 - [x] Bayyinah
 - [x] Check healthy gamer exisitng posts on judgement
-- [ ] meditate
+- [x] meditate
 - [ ] [[Create wiki on judgement samskra to post to r/healthygamer|scratch.2021.11.02.085848.create-wiki-on-judgement-samskra-to-post-to-rhealthygamer]]
 
 ### Work
@@ -24,9 +24,6 @@ created: 1635860244079
 - [x] Write up wiki on other discovery params (regionCode, SITE, application type)
 
 ## Tomorrow
-
-- [ ] [Forsen sekiro](https://www.youtube.com/watch?v=8AyLnR0KB54&list=PLbfK-0Msr8f41AzhIQ0u6KaKYhbpyRuy3&index=1)
-- [ ] Watch simplistic mobility method video
 
 ## Not Doing
 
