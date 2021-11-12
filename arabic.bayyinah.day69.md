@@ -1,8 +1,8 @@
 ---
 id: qidQrgRTJAsAmay6RWRSZ
-title: "Day 69 - Things you need to know about fils"
-desc: ""
-updated: 1635907971564
+title: Day 69 - Things you need to know about fils
+desc: ''
+updated: 1636300482446
 created: 1635821886349
 ---
 
@@ -73,5 +73,3 @@ _I don't know the difference between E and F yet_
 This means "mudhari emphasized with a light nun"
 
 ![](/assets/images/2021-11-02-21-51-00.png)
-
-# 56 minutes up to

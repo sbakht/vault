@@ -2,7 +2,7 @@
 id: 23c7938d-c6f1-42f9-93f4-9a22fcd56a26
 title: "2021-11-03"
 desc: ""
-updated: 1636220126175
+updated: 1636237808481
 created: 1635960779463
 ---
 
@@ -22,7 +22,6 @@ created: 1635960779463
 
 ## Tomorrow
 
-- [ ] Watch simplistic mobility method video
 - [ ] Fix bambuser call
 - [x] Create ajax call setup
   - [x] add params to call
