@@ -1,8 +1,8 @@
 ---
 id: 6bd0d361-e9ec-49f6-8f37-d9ce71e67b7e
-title: 'How to create Akami ticket for new url'
+title: How to create Akami ticket for new url
 desc: ''
-updated: 1636748885459
+updated: 1636769659944
 created: 1636748814925
 ---
 
