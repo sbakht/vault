@@ -1,22 +1,20 @@
 ---
 id: b3ad1436-3241-4841-adf7-74938abf9c4a
 title: Planning
-desc: ''
-updated: 1635870793681
+desc: ""
+updated: 1636828252622
 created: 1635860034636
 ---
 
 ## Modiface things we need to add
 
-
 ### Ajax call
 
 Ajax parameters:
 
-	1. Pagination
-	2. Sort by
-	3. Facets
-
+    1. Pagination
+    2. Sort by
+    3. Facets
 
 #### Pagination
 
@@ -39,46 +37,46 @@ Ajax parameters:
 
 pathname=/shop/search/COLOR_NORMAL,PRODUCT_DEPARTMENT/Blue,Boots|Mules
 
-	comma separates facet group
-	| separates items within a group
-
+    comma separates facet group
+    | separates items within a group
 
 - [x] keyword
 - [x] region code
-- [ ] device type
-- [ ] application
-- [ ] navigation type
-- [ ] shopping mode
+- [c] device type
+- [c] application
+- [c] navigation type
+- [c] shopping mode
+
+-- _UPDATE: I dont need to learn the rest of these since RequestContext within @common is taking care of it for me_
 
 #### keyword
 
 We don't need keyword for our scenario so i will skip it
 
-#### _regionCode
+#### \_regionCode
 
 This is how discovery gets it on the server side which then updates the meta response from. They build the xapi request using a different param though
 
 ```javascript
-const reqUrl = `${xapi.getSearchPageUrlFromRequest(req)}${(userid !== undefined) ? `&userid=${userid}` : ''}&visitorId=${visitorId}`;
+const reqUrl = `${xapi.getSearchPageUrlFromRequest(req)}${
+  userid !== undefined ? `&userid=${userid}` : ""
+}&visitorId=${visitorId}`;
 ```
 
 ```javascript
-const RequestContext = require('@component/common/src/util/RequestContext');
+const RequestContext = require("@component/common/src/util/RequestContext");
 const regionCode = RequestContext.getRegionCodeFromRequest(req, true);
 ```
 
 Discovery client side reads from pageApp
 
-#### _deviceType
+#### \_deviceType
 
-#### _application
+#### \_application
 
-#### _navigationType
+#### \_navigationType
 
-#### _shoppingMode
-
-
-
+#### \_shoppingMode
 
 https://www.macys.com/xapi/discover/v1/page?pathname=/shop/search/COLOR_NORMAL/Blue&keyword=shoes&_application=SITE&_navigationType=SEARCH&_deviceType=DESKTOP&_shoppingMode=SITE&_regionCode=US&_customerExperiment=565-20,601-23,730-21,752-21,775-21,799-21&currencyCode=USD&_customerState=GUEST&pageIndex=1&productsPerPage=60&sortBy=PRICE_LOW_TO_HIGH&_additionalStoreLocations=5419&_shipFromLocations=10&sessionId=017cb88d208c00180635a660c1d80507800160700093c&visitorId=59418712652014288716973226189909931660&size=medium
 

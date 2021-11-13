@@ -1,7 +1,7 @@
 ---
 id: Jwq6452yNKOVw6WZhvQQd
 title: Conclusion
-desc: ''
+desc: ""
 updated: 1635860209418
 created: 1624332987705
 ---
@@ -20,7 +20,7 @@ Don't forget - join us on [Discord](https://discord.com/invite/AE3NRw9) to ask q
 
 There is much more that Dendron offers. When you're ready, learn more about additional features that Dendron offers:
 
-- [n] Import your existing notes from other sources like Obsidian, etc. with [Pods](https://wiki.dendron.so/notes/66727a39-d0a7-449b-a10d-f6c438185d7f.html)
+- [c] Import your existing notes from other sources like Obsidian, etc. with [Pods](https://wiki.dendron.so/notes/66727a39-d0a7-449b-a10d-f6c438185d7f.html)
 - [ ] [Publish](https://wiki.dendron.so/notes/861e4e48-dcc5-4813-a695-8940ba6e64d3.html) your notes to a website with just a few clicks. Our [Dendron Wiki Site](https://wiki.dendron.so/) is created in this way!
 - [ ] Check out our [Case Studies](https://wiki.dendron.so/notes/34ee4bcf-60e9-4031-a4c0-26113b5acb80.html) and [Workflows](https://wiki.dendron.so/notes/9313b845-d9bf-42c9-aad1-0da34794ce26.html) to see various ways Dendron is being used to organize knowledge.
 - [ ] Learn about more [Commands](https://wiki.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html)
@@ -30,4 +30,5 @@ There is much more that Dendron offers. When you're ready, learn more about addi
 A complete set of our documentation can be found on our [Wiki Site](https://wiki.dendron.so/).
 
 ---
+
 [[Tutorial Home Page| tutorial]]

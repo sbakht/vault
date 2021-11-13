@@ -14,7 +14,7 @@ created: 1635960779463
 - [x] stretch
 - [x] [Forsen sekiro](https://www.youtube.com/watch?v=8AyLnR0KB54&list=PLbfK-0Msr8f41AzhIQ0u6KaKYhbpyRuy3&index=1)
 - [p] workout
-- [n] [[Create wiki on judgement samskra to post to r/healthygamer|scratch.2021.11.02.085848.create-wiki-on-judgement-samskra-to-post-to-rhealthygamer]]
+- [c] [[Create wiki on judgement samskra to post to r/healthygamer|scratch.2021.11.02.085848.create-wiki-on-judgement-samskra-to-post-to-rhealthygamer]]
 
 ### Work
 

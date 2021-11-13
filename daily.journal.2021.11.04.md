@@ -1,8 +1,8 @@
 ---
 id: f97837fd-e9a2-421a-9a65-257d66cdc4ff
-title: '2021-11-04'
-desc: ''
-updated: 1636032537360
+title: "2021-11-04"
+desc: ""
+updated: 1636828157047
 created: 1636032418992
 ---
 
@@ -12,15 +12,14 @@ created: 1636032418992
 
 - [x] meditate
 - [x] stretch
-- [ ] workout
-- [ ] Watch simplistic mobility method video
-- [ ] look up dendron todo list aliase
+- [f] workout
+- [f] Watch simplistic mobility method video
+- [f] look up dendron todo list aliase
 
 ### Work
 
-- [ ] Fix bambuser call
-- [ ] Create ajax call setup
-  - [ ] add params to call
+- [f] Fix bambuser call
+- [x] Create ajax call setup
+  - [x] add params to call
 
 ## Tomorrow
-

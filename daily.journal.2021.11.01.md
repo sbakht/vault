@@ -1,7 +1,7 @@
 ---
 id: dKzBrtbrjpLPnTHjL9X6S
-title: '2021-11-01'
-desc: ''
+title: "2021-11-01"
+desc: ""
 updated: 1635899568279
 created: 1635804326683
 ---
@@ -21,7 +21,7 @@ created: 1635804326683
 
 ## Not Doing
 
-- [n] Go through https://yare.io/
+- [c] Go through https://yare.io/
 
 I just created a smoothie from the mango/peanch/pineapple/strawberry frozne fruits from costco. It doesn't taste AMAZINGLY fruity but it taste pretty good enough. I could probably add some lemon or something to make it great. Its a good healthy base to get fruits from.
 
