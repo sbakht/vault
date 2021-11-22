@@ -2,11 +2,11 @@
 id: GtofOYcpoj4tMRrdokZVd
 title: "2021-11-06"
 desc: ""
-updated: 1636588774330
+updated: 1636828316745
 created: 1636588744014
 ---
 
-- [ ] Watch simplistic mobility method video
+- [f] Watch simplistic mobility method video
 
 ## Why I stopped trying to name my emotions
 

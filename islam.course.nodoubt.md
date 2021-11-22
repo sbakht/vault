@@ -1,14 +1,15 @@
 ---
-id: 9513af2a-9fbe-4b21-9724-c86e47ef4285
-title: '201013'
-desc: ''
-updated: 1636772288562
-created: 1636769413991
+id: QmJn8xFqkuzWNdpwm9ygj
+title: Nodoubt
+desc: ""
+updated: 1636828394107
+created: 1636828394107
 ---
 
 ### Ego is #1 reason for doubts
 
 Shaytan's problem was arrogance
+
 - [ ] Need to think about this one
 
 ### Undstand the difference between abstract knowledge vs being
@@ -16,9 +17,7 @@ Shaytan's problem was arrogance
 Knowledge doens't translate to reality as I already know
 Working out, FP knowing vs coding
 
-
 We accept limits in eyesight, and everything else physical like strength. But we dont accept cognitive limits.
-
 
 ### Metaphyics - Worldview
 

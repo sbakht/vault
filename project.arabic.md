@@ -2,7 +2,7 @@
 id: 1f739aa3-9a4c-4a93-96e7-4a8867a5ac7c
 title: Arabic
 desc: ''
-updated: 1637199205071
+updated: 1637522830599
 created: 1637198980521
 ---
 
@@ -22,3 +22,11 @@ pattern
 	pattern: 1
 }
 
+
+### Resouraces
+
+https://ctan.org/pkg/arabtex?lang=en - latex arabic
+https://kariminf.github.io/jslingua.web/trans.html - transliteration
+https://github.com/purescript-contrib/purescript-unicode - unicode for arabic characters
+http://www.qamus.org/transliteration.htm
+https://corpus.quran.com/java/buckwalter.jsp

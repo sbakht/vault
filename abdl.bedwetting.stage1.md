@@ -2,7 +2,7 @@
 id: dCx5XV4FYBtaeGeRSCx9y
 title: "Stage 1"
 desc: ""
-updated: 1636822769662
+updated: 1637436286018
 created: 1636819570662
 ---
 
@@ -40,7 +40,14 @@ I will wake up and wet at night 3 days a week without wearing a diaper. I will a
 ### What do I need to do now
 
 - [x] setup pad
-- [ ] set out pajamas, backup pajamas, fajr clothes
-- [ ] set an alarm for 4 am in case I dont wet before that
+- [x] set out pajamas, backup pajamas, fajr clothes
+- [x] set an alarm for 4 am in case I dont wet before that
 - [ ] setup backup blanket
-- [ ] drink 1.5 large glasses of water before sleeping
+- [x] drink 1.5 large glasses of water before sleeping
+
+
+
+## Update
+
+So on the first night after wetting, i ended up orgasming and stopped my plan immediately.
+Now its 2021.11.20 and im starting up hypno and doing my plan to wear diapers every day for atleast 8 hours
