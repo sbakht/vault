@@ -2,7 +2,7 @@
 id: Yz63LHFGnVyAxdFKbypGO
 title: '210008'
 desc: ''
-updated: 1637724582373
+updated: 1637785390455
 created: 1637722809785
 ---
 
@@ -11,7 +11,7 @@ https://messageinternational.org/society/postmodernism-desires-and-self-worship/
 > one of the defining traits of a postmodernist worldview pertains to individualism and instant gratification.
 
 > The advent of the Internet, with all of its potential good and evil, turned “into yet another corporate-dominated sphere” (The Cambridge Companion to Postmodernism, p.141)
-with endless virtual shopping malls and countless entertainment options. It expands the reach of consumerism and reinforces social alienation and isolation.The advent of the Internet, with all of its potential good and evil, turned “into yet another corporate-dominated sphere” (The Cambridge Companion to Postmodernism, p.141)
+with endless virtual shopping malls and countless entertainment options. It expands the reach of consumerism and reinforces social alienation and isolation.
 
 https://messageinternational.org/community/postmodernism-and-truth/
 
