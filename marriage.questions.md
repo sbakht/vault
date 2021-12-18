@@ -2,11 +2,11 @@
 id: 6586e9ef-e6cb-4b0e-9a6f-f3de6a66c6d9
 title: Questions
 desc: ''
-updated: 1639351996890
+updated: 1639868960971
 created: 1639347944130
 ---
 
-**What is unforgivable before marriage? After marriage**
+**What is unforgivable before marriage? After marriage*p*
 
 cheating, being judgemental of me without understanding. Judging my family or others unfairly. Using me against my family or them against me.
 

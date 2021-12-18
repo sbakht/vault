@@ -2,7 +2,7 @@
 id: f59202ed-be39-46b5-a4f8-b53c4ae63543
 title: API
 desc: ''
-updated: 1639087763370
+updated: 1639520408240
 created: 1639084402381
 ---
 
@@ -27,3 +27,9 @@ clientId = 1759121
 - https://api.tvpage.com/api/accountUser/ambassador/213627?X-login-id=1759121
 
 https://api.tvpage.com/api/channels/155524389/contents?X-login-id=1759121&p=0&n=24&status=approved&_=1639087607159 this is the homepage call, where is the id determined from?
+
+**ID comes from the page source, it is hardcoded based on page type**
+
+Additionally, I wanted to include our documentation on hub customization so that you can see how this comes together to create the experience, and what the possibilities are for customization.
+
+https://tvpage-support.zendesk.com/hc/en-us/articles/4415841959447-TV-Page-Configuration-Guide
