@@ -2,7 +2,7 @@
 id: 1f739aa3-9a4c-4a93-96e7-4a8867a5ac7c
 title: Arabic
 desc: ''
-updated: 1639005078439
+updated: 1639925302276
 created: 1637198980521
 ---
 
@@ -32,3 +32,5 @@ http://www.qamus.org/transliteration.htm
 https://corpus.quran.com/java/buckwalter.jsp
 
 ![[arabic.bayyinah.day73#What-to-do-when-you-see-a-fil-in-Quran]]
+
+process to building passive verb - https://dream.bayyinahtv.com/topics/41/session/215/video/2316
