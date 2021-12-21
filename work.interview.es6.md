@@ -2,10 +2,11 @@
 id: 374c73e8-ee8f-4197-a966-e68df5b454de
 title: Es6
 desc: ''
-updated: 1640117262969
+updated: 1640119561803
 created: 1640111137554
 ---
 
+/*
 const arr1 = [1,2,3]
 arr1.push(4)
 arr1 = [1,2,3,4,5]
@@ -77,3 +78,4 @@ function foo() {
 	}
 	console.log(x)
 }
+*/
