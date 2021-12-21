@@ -2,7 +2,7 @@
 id: 374c73e8-ee8f-4197-a966-e68df5b454de
 title: Es6
 desc: ''
-updated: 1640111149402
+updated: 1640117262969
 created: 1640111137554
 ---
 
@@ -58,3 +58,22 @@ obj2.foo = "new foo"
 const obj3 = {...obj, ...obj2}
 
 obj2 === obj3
+
+function a() {
+	let x = 1;
+	let y = 2
+	return function b() {
+		let z = 4;
+		let x = 3;
+		return x + y + z
+	}
+}
+
+function foo() {
+	var x = 1;
+	if(true) {
+		var x = 2
+		console.log(x)
+	}
+	console.log(x)
+}
