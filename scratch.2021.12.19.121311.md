@@ -2,7 +2,7 @@
 id: K0F1Cz3pTWOsHEHulMKwW
 title: '121311'
 desc: ''
-updated: 1639937601925
+updated: 1640011816486
 created: 1639937593045
 ---
 
@@ -62,3 +62,6 @@ myPromiseAll([rejected, promise3]).then((values) => {
 
 // Given an array of post ids, request those posts from the api, make the title uppercase and add an exclamation point, then send a request to update the titles in the api
 // Once all the titles are successfully updated, log a success message
+
+// write your own implementation of map
+// write your own implementation of reduce
