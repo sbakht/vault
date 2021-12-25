@@ -2,7 +2,7 @@
 id: 1f739aa3-9a4c-4a93-96e7-4a8867a5ac7c
 title: Arabic
 desc: ''
-updated: 1639925302276
+updated: 1640454265811
 created: 1637198980521
 ---
 
@@ -34,3 +34,17 @@ https://corpus.quran.com/java/buckwalter.jsp
 ![[arabic.bayyinah.day73#What-to-do-when-you-see-a-fil-in-Quran]]
 
 process to building passive verb - https://dream.bayyinahtv.com/topics/41/session/215/video/2316
+
+## Verb interactive teacher
+
+![](/assets/images/2021-12-25-11-42-12.png)
+
+*Steps to create arabic negation from english*
+
+**Neither of you will go**
+
+1. Identify the verb
+2. Translate the verb to basic form
+3. Get the right form of verb from gender and plurality
+4. Identify any harf needed for meaning
+5. Modify verb if needed by the harf
