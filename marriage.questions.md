@@ -2,7 +2,7 @@
 id: 6586e9ef-e6cb-4b0e-9a6f-f3de6a66c6d9
 title: Questions
 desc: ''
-updated: 1639959783847
+updated: 1640368089509
 created: 1639347944130
 ---
 
@@ -68,7 +68,7 @@ Getting a job that made it easy to pray. Both my jobs had a place to pray or a m
 
 **What is a moment that tested your faith in Allah?**
 
-Hajj, that I didnt feel anything when seeing the Kaabah or in medinah. Alot of self hate from nofap and diapers, but thats not an issue anymore really. In general its my diaper desires and not sinning. Better answer is
+Hajj, that I didnt feel anything when seeing the Kaabah or in medinah. Alot of self hate from nofap and diapers, but thats not an issue anymore really. In general its my diaper desires and not sinning. Better answer is.
 
 **How do you handle disagreements?**
 
