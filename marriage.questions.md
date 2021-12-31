@@ -2,7 +2,7 @@
 id: 6586e9ef-e6cb-4b0e-9a6f-f3de6a66c6d9
 title: Questions
 desc: ''
-updated: 1640368089509
+updated: 1640985166667
 created: 1639347944130
 ---
 
@@ -81,3 +81,13 @@ Thoughts 100%
 **What are the most important qualities looking for in a spouce?**
 
 religious obviously, fun/playful, understanding, open minded, friendly
+
+**What are ways you could improve your relationship with Allah?**
+
+**Who are the greatest positive Islamic influences in your life?**
+
+**Are you a do-it yourselfer, or would you rather hire professionals?**
+
+**How often would guests come over to ur house?**
+
+**Do you think you'd be the the harsh parent or the easy going parent?**
