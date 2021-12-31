@@ -2,7 +2,7 @@
 id: W4NyQZS3X8xap8psGNzke
 title: '180529'
 desc: ''
-updated: 1640908077633
+updated: 1640971497467
 created: 1640822731536
 ---
 
@@ -29,3 +29,5 @@ Difficulty is what makes you stronger. Having kids and taking difficulty away wi
 Pracice is the act of doing something in a low stakes environment multiple times, until you can easily do it in a high stakes environment.
 
 Secularists actually attack problems, not muslims. Muslims just ignore them. This comes from muslims avoiding the truth, pretending we are in perfection, so we can't fix anything.
+
+I'm resistant to doing alot of the techniques to overcome freeze response like giving an alternate story or watching a video on grounding behavior and doing that. I should work on breaking the emotional response to "alternate story".
