@@ -2,7 +2,7 @@
 id: 1f739aa3-9a4c-4a93-96e7-4a8867a5ac7c
 title: Arabic
 desc: ''
-updated: 1640454634500
+updated: 1641062251111
 created: 1637198980521
 ---
 
@@ -50,3 +50,24 @@ process to building passive verb - https://dream.bayyinahtv.com/topics/41/sessio
 4. Identify any harf needed for meaning
 5. Modify verb if needed by the harf
 	- go back to step 3 if needed
+
+
+### Options for question types
+
+single choice - single direction
+
+multiple choice with single select (or other variates of fixed selection)
+	- single flow
+	- each own direction
+	- right/wrong direction
+
+multiple choice with multi select (or other variations of fixed selection)
+	- single flow
+	- each combination own direction or closed set of directions
+	- right/wrong direction
+
+user inputed string
+	- single direction
+	- parse and switch case into multiple directions
+
+user string + multiple choies
