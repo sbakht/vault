@@ -2,7 +2,7 @@
 id: 5ksw8hlLqEC8msgCnnFzu
 title: '231145'
 desc: ''
-updated: 1641705153738
+updated: 1641762313579
 created: 1641705106027
 ---
 
@@ -11,4 +11,11 @@ created: 1641705106027
 kind, generous, good driver, easy going
 
 overly religious, sensitive, emotional
+
+
+### Amizan
+
+Self starter, determined
+
+His weakness was a joke answer "cs go"
 
