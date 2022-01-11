@@ -2,7 +2,11 @@
 id: 6586e9ef-e6cb-4b0e-9a6f-f3de6a66c6d9
 title: Questions
 desc: ''
-updated: 1640991435018
+<<<<<<< HEAD
+updated: 1641862108371
+=======
+updated: 1641591172156
+>>>>>>> c604d84dd60f47e1cd66a602f1dbce690182b8b4
 created: 1639347944130
 ---
 
@@ -91,3 +95,18 @@ religious obviously, fun/playful, understanding, open minded, friendly
 **How often would guests come over to ur house?**
 
 **Do you think you'd be the the harsh parent or the easy going parent?**
+
+
+**Do you have any debt?**
+
+**How do you view intimacy? Do you have any big qualms or worries about it? What do you think of trying activities/kinks?**
+
+**Do you have any negative experices or trauma that you want to talk about?**
+
+**I kinda asked this before, but what things do you have on ur bucket list?**
+
+**Do you like hugs? What do you think about a hug policy?**
+
+**Do you have any fears or phobias?**
+
+**As kids, how were each of you and ur siblings treated differently based on age/gender?**

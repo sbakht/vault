@@ -2,7 +2,7 @@
 id: cyoXbsaMKZvJQXyQLqbf3
 title: Uidesign
 desc: ''
-updated: 1640981945104
+updated: 1641525682520
 created: 1640981893251
 ---
 
@@ -17,3 +17,5 @@ https://patternpad.com/editor.html
 https://icons8.com/illustrations
 
 https://www.colorsandfonts.com/font-pairing
+
+https://appydev.co/
