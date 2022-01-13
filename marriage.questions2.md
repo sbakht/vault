@@ -2,7 +2,7 @@
 id: F3FSis9nkXnnpPoVkpExc
 title: Questions2
 desc: ''
-updated: 1641865840177
+updated: 1642039872966
 created: 1641863678984
 ---
 
@@ -49,4 +49,7 @@ Are you trying to get promoted at work?
 What could happen during a family meeting that would make your family say no?
 
 
- 
+What do you think of corona, masks, vaccines?
+
+What do you think of the word triggered?
+
