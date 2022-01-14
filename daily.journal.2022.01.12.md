@@ -2,7 +2,7 @@
 id: 4e93a9b7-8151-4922-a330-db8260b626f6
 title: '2022-01-12'
 desc: ''
-updated: 1642019883450
+updated: 1642050567403
 created: 1642001863900
 ---
 
@@ -25,3 +25,6 @@ What do you think of the word triggered?
 3.	What might you regret having in your record today that you didn’t repent for yet?
 4.	What can you do better moving forward? 
 5.	How will you die?
+
+
+I don't know if I actually want a relationship. I need to explore this.
