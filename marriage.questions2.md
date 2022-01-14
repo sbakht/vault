@@ -2,7 +2,7 @@
 id: F3FSis9nkXnnpPoVkpExc
 title: Questions2
 desc: ''
-updated: 1642039872966
+updated: 1642135829752
 created: 1641863678984
 ---
 
@@ -53,3 +53,14 @@ What do you think of corona, masks, vaccines?
 
 What do you think of the word triggered?
 
+Why did you ask if my mom would have a problem with you being more religious then her?
+
+Why did you ask what requirements my mom has? What requirements do YOUR parents have?
+
+If you have a a disagreement with my family, should I take your side?
+
+Should you and your partner love Allah more then each other?
+
+What is your definition of love?
+
+Would you stop eating milk if you know the cows were being abused?
