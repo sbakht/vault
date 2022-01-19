@@ -2,9 +2,11 @@
 id: 9491941d-205e-44a0-ba0f-d2ef61535a81
 title: '2022-01-13'
 desc: ''
-updated: 1642103275732
+updated: 1642178805394
 created: 1642103115338
 ---
+
+day 2 pmo
 
 ## Modiface
 
