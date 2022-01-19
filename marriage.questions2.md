@@ -2,9 +2,24 @@
 id: F3FSis9nkXnnpPoVkpExc
 title: Questions2
 desc: ''
-updated: 1642135829752
+updated: 1642553462521
 created: 1641863678984
 ---
+
+What are your parents expectations of you for marriage?
+  - What are their expectations of me?
+
+What exactly are you referring to when mentioning inlaws and family relations?
+
+Why did you ask if my mom would have a problem with you being more religious then her?
+
+If you have a a disagreement with my family, should I take your side?
+
+
+------------------------------------------------------------------------------------------
+
+Who would pay for the house?
+  - all me (marriatal assets get split 50)
 
 What is your understanding of a prenup?
   - What do you think of one?
@@ -18,13 +33,8 @@ You plan on staying home with kids?
   - What about after kids are grown up?
   - I would have to pay for EVERYTHING (makeup and all)
 
-What are your parents expectations of you for marriage?
-  - What are their expectations of me?
 
-What exactly are you referring to when mentioning inlaws and family relations?
 
-Who would pay for the house?
-  - all me (marriatal assets get split 50)
 
 If the only time we have together is during isha, would you prefer I go to the masjid or we do stuff together?
   - should we move it to a different time
@@ -53,11 +63,6 @@ What do you think of corona, masks, vaccines?
 
 What do you think of the word triggered?
 
-Why did you ask if my mom would have a problem with you being more religious then her?
-
-Why did you ask what requirements my mom has? What requirements do YOUR parents have?
-
-If you have a a disagreement with my family, should I take your side?
 
 Should you and your partner love Allah more then each other?
 
