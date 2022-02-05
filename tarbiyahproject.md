@@ -2,7 +2,7 @@
 id: sZNFfTLpaSk4vV3XzWHzT
 title: Tarbiyahproject
 desc: ''
-updated: 1643943760155
+updated: 1644086915214
 created: 1643770798987
 ---
 
@@ -74,3 +74,9 @@ What we can provide will be based on volunteer skillsets
    - CMS - wordpress/drupal
 
 
+#### Project Goals
+Have a volunteer team of UI/UX designers
+Create a website where prospective clients can contact us and see what projects we have worked on
+Successfully improve or redesign an existing website/app for an islamic organization
+Work with an islamic organization to understand their needs, and subsequently design a website/app that fits their needs
+Create a communication group to enable easy communication and collaboration with the volunteers 
