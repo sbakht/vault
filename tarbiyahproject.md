@@ -2,7 +2,7 @@
 id: sZNFfTLpaSk4vV3XzWHzT
 title: Tarbiyahproject
 desc: ''
-updated: 1644117091933
+updated: 1644173560411
 created: 1643770798987
 ---
 
@@ -17,9 +17,9 @@ be able to read the description and fully understand what the project aims to ac
 
 ### Description requirements
 
-<!-- 1. summary 300 words max soft req -->
-<!-- - 2. Cite topics from tarbiyah program -->
-<!-- - 3. identify project goals - min 2 -->
+1. summary 300 words max soft req
+2. Cite topics from tarbiyah program
+3. identify project goals - min 2
 - 4. concrete steps to execute project - 3 min
 - 5. how to link project to existing organization in community or online
 - 6. obstacles or challenges
@@ -78,14 +78,7 @@ What we can provide will be based on volunteer skillsets
 
 
 
-
--------------------
--------------------
--------------------
--------------------
--------------------
--------------------
--------------------
+## Project Description
 
 ### Summary
 The proposal is to create a website and app design agency to provide free, professional UI designs, for Islamic-based organizations. This is important because having high quality website/app is extremely important for an organizations user engagement. This will be accomplished through the creation a volunteer team of professional web designers and developers. We will then find organizations that need web design help or organizations will be able to find us through our website.
@@ -129,3 +122,56 @@ A new organization may come to us for help, but have no real vision of their own
 
 ### How to measure progress 
 This can easily be measured by the amount of activity on our discord channel and the number of organizations we are working with or have worked with. What is most important will be the clients response to our new designs, weather they like it or not.
+
+
+## PowerPoint Slides
+- Title
+  - Web Design Agency to help Islamic-based organizations
+- High level summary
+  - We will build a team of volunteer professional UI/UX designers
+  - Help islamic organizations design their first, or redesign their existing, website/app
+- Why UI/UX focus
+  - We are primarily focusing on UI/UX due to time constraints
+  - Full development of a website/app takes MANY hours
+  - Volunteer teams have a limited number of hours they can give, so we are limiting our scope
+  - There are many different skill sets within the industry
+    - UI/UX - Our primary focus will be on UI/UX design
+    - Software Engineers
+    - Logo/Icon designers
+    - Illustrators 
+    - etc
+- What is UI/UX design?
+  - Creating the LOOK of the site
+  - Design greatly influences the users engagement and perception of the website/app
+  - The branding of a site influences a user's perception of the organization (Examples on next slides)
+  - High quality website = High quality service/product
+  - We need islamic organizations to have high quality websites/apps to improve their perception among muslims and non-muslims 
+- Examples of sites
+  - Tesla - https://www.tesla.com/
+    - Very minimalistic and clean design, just like the design of their cars
+  - Fall guys - https://www.fallguys.com/en-US
+    - Bright, plaful colors
+    - Fun design
+    - Indicates it something family friendly and fun
+  - AlMaghrib
+    - Something about changing my life? - Will attract people who want a life changing experience
+    - You can see people together, being happy
+    - Suggestion: Have an indicator the user can scroll down (down arrow)
+      - Make the text bigger since there is a lot of empty space
+- Project Goals
+ - Build a team of volunteer UI/UX designers
+ - Optional: Build a team of software engineers as well
+ - Create a website for our organization
+  - Prospective clients can learn about us and contact us
+  - Showcase our previous client projects
+ - Successfully make design improvements to an existing Islamic website/app
+ - Successfully completely redesign an existing Islamic website/app
+ - Successfully create an initial design for a new Islamic website/app
+ - Create a discord channel for volunteers to communicate and collaborate
+- Challenges
+  - Finding and connecting with organizations that need and want our help
+  - Retaining volunteer engagement
+    - Time constraints
+    - Not enough projects so volunteers lose interest 
+  - New organizations without a strong vision will offload too much work onto us
+    - Can avoid this by only working with established organizations at first
