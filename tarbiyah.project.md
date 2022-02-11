@@ -1,6 +1,6 @@
 ---
 id: sZNFfTLpaSk4vV3XzWHzT
-title: Tarbiyahproject
+title: Project
 desc: ''
 updated: 1644173560411
 created: 1643770798987
