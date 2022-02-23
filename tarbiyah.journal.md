@@ -2,7 +2,7 @@
 id: yEpo7Cgs0zP8XpVTn2wmk
 title: Journal
 desc: ''
-updated: 1644601879281
+updated: 1644626148162
 created: 1644344711217
 ---
 
@@ -35,5 +35,13 @@ Weath is a tricky one for me. Like I like to save alot, which is good, but my de
 Whenever I think about death, I become sad and guilty because I feel like I'm not doing enough or a good enough job, which is true in some respects. It is also not true in some respects. Balancing this is hard just like balancing anything is hard. That negativity becomes overwelhming and then I just tune out. I get overwelhmed easily just like I do if I have too many tasks or things to do. What I should do is focus on the positive aspects like forgiveness, then look at how I can make 1 change to try to improve things. Its like a self experiment where I keep changing 1 thing and see if it works for me to do more good and avoid the bad.
 
 8. Morality & Ethics
+
+Morals are easy when its something black and white, but its the other stuff thats complicated. Its a balance act where you don't really know what the best solution is. This is where alot of disagreements start, and turn into fights. Then the ego kicks in. The ego can easily take over and ruin whatever good you were initially trying to do. When the ego kicks in I should back down, because its just ruining what I had initially planned. Ego is arrogance and pride and you won't get into Jannah with any of that in your heart.
+
 9. Islamic Leadership Principles
+
+Failure can make you a good leader. Failure leads to understanding difficulty situations and empathy. Those circumstances make you more understanding of other people which can make you better at leading.	Thats a part of humility.
+
 10. Conflict Resolution & Mediation
+
+This is probably the hardest thing ever. Like I got no communication skills. I've spent alot of time learning about how communication is suppose to be, but its super hard to do. Like I know you gotta understand the other persons viewpoint based on their experiences, so you ask questions to understand it fully. Although thats not the hard part, the hard part is going pased my internal programming via childhood experiences and personality. Like I'm super passive and I have difficulty communicating. I have the thoughts in my head but I cant verbalize them. So in the moment of a conversation is very difficult, or even to start a conversation or bring up a topic.
