@@ -2,21 +2,21 @@
 id: 0e50e066-df94-4c38-9388-2a9c9741496a
 title: '2022-02-23'
 desc: ''
-updated: 1645656960395
+updated: 1645748420561
 created: 1645626434533
 ---
 
 # TODO
 
-- [ ] anki cards
+- [x] anki cards
 - [x] breakfast
-- [ ] hg vods
-- [ ] pullups
-- [ ] legs workout
+- [x] hg vods
+- [x] pullups
+- [x] legs workout
 - [x] architecture diagram
 
 - [ ] meditate 5 minutes
-- [ ] 30 min bayyinah
+- [x] 30 min bayyinah
 
 
 # nofap
