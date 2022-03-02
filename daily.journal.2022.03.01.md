@@ -2,14 +2,14 @@
 id: b61ebbef-655c-4d2e-93e2-7001e77c4e70
 title: '2022-03-01'
 desc: ''
-updated: 1646192843313
+updated: 1646195238996
 created: 1646159010000
 ---
 
 # TODO
 
 - [x] Quran 20 min
-- [x] bayyinah 30 min
+- [x] bayyinah 30 min - i actually did more then this :)
 - [x] tai chi 5 min
 
 
