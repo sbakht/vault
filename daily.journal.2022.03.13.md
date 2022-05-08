@@ -11,3 +11,7 @@ total cash: (157066.00192 + 165733.5 + (39*20)) *.025 = 8089.487548
 1,900 already given
 
 total left: 6190
+
+2000 given
+
+4190 remain + 10 extra or so
